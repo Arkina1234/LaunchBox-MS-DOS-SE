@@ -1,1 +1,3 @@
-# LaunchBox-MS-DOS-SE
+# LaunchBox MS-DOS Special Edition
+
+AUTOEXEC
