@@ -1,0 +1,480 @@
+The Ultimate DOOM
+---GENRE---Action
+---SERIES---DOOM
+---DEVELOPER---id Software
+---PUBLISHER---GT Interactive
+---YEAR---1995
+---FAVORITE---
+C:
+CD \DOOM
+DOOM.EXE
+---CONFIG---
+C:
+CD \DOOM
+SETUP.EXE
+
+DOOM II: Hell on Earth
+---GENRE---Action
+---SERIES---DOOM
+---DEVELOPER---id Software
+---PUBLISHER---GT Interactive
+---YEAR---1994
+C:
+CD \DOOM2
+DOOM2.EXE
+---CONFIG---
+C:
+CD \DOOM2
+SETUP.EXE
+
+Duke Nukem 3D
+---GENRE---Action
+---SERIES---Duke Nukem
+---DEVELOPER---3D Realms
+---PUBLISHER---GT Interactive
+---YEAR---1996
+C:
+CD \DUKE3D
+DUKE3D.EXE
+---CONFIG---
+C:
+CD \DUKE3D
+SETUP.EXE
+
+Wolfenstein 3D
+---GENRE---Action
+---SERIES---Wolfenstein
+---DEVELOPER---id Software
+---PUBLISHER---Apogee Software
+---YEAR---1992
+C:
+CD \WOLF3D
+WOLF3D.EXE
+
+Shadow Warrior
+---GENRE---Action
+---DEVELOPER---3D Realms
+---PUBLISHER---GT Interactive
+---YEAR---1997
+C:
+CD \SW
+imgmount d sw.cue -t iso >nul
+SW.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \SW
+imgmount d sw.cue -t iso >nul
+SETUP.EXE
+mount -u d >nul
+
+Shadow Warrior (3dfx required)
+---GENRE---Action
+---DEVELOPER---3D Realms
+---PUBLISHER---GT Interactive
+---YEAR---1997
+---STATUS---3dfx
+C:
+CD \SW
+imgmount d sw.cue -t iso >nul
+SW3DFX.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \SW
+imgmount d sw.cue -t iso >nul
+SET3DFX.EXE
+mount -u d >nul
+
+Blood
+---GENRE---Action
+---DEVELOPER---Moonlith Production
+---PUBLISHER---GT Interactive
+---YEAR---1997
+C:
+CD \BLOOD
+imgmount d blood.cue -t iso >nul
+BLOOD.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \BLOOD
+imgmount d blood.cue -t iso >nul
+SETUP.EXE
+mount -u d >nul
+
+Blood (3dfx required)
+---GENRE---Action
+---DEVELOPER---Moonlith Production
+---PUBLISHER---GT Interactive
+---YEAR---1997
+---STATUS---3dfx
+C:
+CD \BLOOD
+imgmount d blood.cue -t iso >nul
+3DFX.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \BLOOD
+imgmount d blood.cue -t iso >nul
+SETUP.EXE
+mount -u d >nul
+
+Redneck Rampage
+---GENRE---Action
+---DEVELOPER---Xatrix Entertainment
+---PUBLISHER---Interplay
+---YEAR---1997
+C:
+CD \INTRPLAY\REDNECK
+imgmount d yepright.cue -t iso >nul
+REDNECK.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \INTRPLAY\REDNECK
+imgmount d yepright.cue -t iso >nul
+SETUP.EXE
+mount -u d >nul
+
+Descent
+---GENRE---Action
+---SERIES---Descent
+---DEVELOPER---Parallax Software
+---PUBLISHER---Interplay
+---YEAR---1995
+C:
+CD \INTRPLAY\DESCENT
+call DESCENT.BAT
+---CONFIG---
+C:
+CD \INTRPLAY\DESCENT
+SETUP.EXE
+
+Descent 2
+---GENRE---Action
+---SERIES---Descent
+---DEVELOPER---Parallax Software
+---PUBLISHER---Interplay
+---YEAR---1996
+C:
+CD \INTRPLAY\DESCENT2
+imgmount d d2.cue -t iso >nul
+D2.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \INTRPLAY\DESCENT2
+SETUP.EXE
+
+Descent 2 (3dfx required)
+---GENRE---Action
+---SERIES---Descent
+---DEVELOPER---Parallax Software
+---PUBLISHER---Interplay
+---YEAR---1996
+---STATUS---3dfx
+C:
+CD \INTRPLAY\DESCENT2
+imgmount d d2.cue -t iso >nul
+D2VOODOO.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \INTRPLAY\DESCENT2
+SETUP.EXE
+
+Tomb Raider
+---GENRE---Adventure
+---DEVELOPER---Core Design
+---PUBLISHER---Eidos Interactive
+---YEAR---1996
+C:
+CD \TOMB
+imgmount d tomb.cue -t iso >nul
+TOMB.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \TOMB
+SETUP.EXE
+
+Tomb Raider (3dfx required)
+---GENRE---Adventure
+---DEVELOPER---Core Design
+---PUBLISHER---Eidos Interactive
+---YEAR---1996
+---STATUS---3dfx
+C:
+CD \TOMB
+imgmount d tomb.cue -t iso >nul
+3DFX.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \TOMB
+SETUP.EXE
+
+The Elder Scrolls: Arena
+---GENRE---Role-playing
+---DEVELOPER---Betesda Softworks
+---PUBLISHER---Betesda Softworks
+---YEAR---1994
+C:
+CD \ARENA
+ARENA.BAT
+---CONFIG---
+C:
+CD \ARENA
+INSTALL.EXE
+
+The Elder Scrolls: Daggerfall
+---GENRE---Role-playing
+---DEVELOPER---Betesda Softworks
+---PUBLISHER---Betesda Softworks
+---YEAR---1996
+C:
+CD \DAGGER
+FALL.EXE z.cfg
+---CONFIG---
+C:
+CD \DAGGER
+INSTALL.EXE
+
+Quake
+---GENRE---Action
+---SERIES---Quake
+---DEVELOPER---id Software
+---PUBLISHER---GT Interactive
+---YEAR---1996
+C:
+CD \QUAKE
+imgmount d quake.cue -t iso >nul
+QUAKE.EXE
+mount -u d >nul
+
+Heretic
+---GENRE---Action
+---DEVELOPER---Raven Software
+---PUBLISHER---id Software
+---YEAR---1993
+C:
+CD \HERETIC
+HERETIC.EXE
+---CONFIG---
+C:
+CD \HERETIC
+SETUP.EXE
+
+Hexen: Beyond Heretic
+---GENRE---Action
+---DEVELOPER---Raven Software
+---PUBLISHER---id Software
+---YEAR---1995
+C:
+CD \HEXEN
+HEXEN.EXE
+---CONFIG---
+C:
+CD \HEXEN
+SETUP.EXE
+
+Spear of Destiny
+---GENRE---Action
+---SERIES---Wolfenstein
+---DEVELOPER---id Software
+---PUBLISHER---FormGen
+---YEAR---1994
+C:
+CD \SPEAR
+if ERRORLEVEL == SPEAR.EXE goto spear
+:spear
+SPEAR.EXE
+:end
+---CONFIG---
+C:
+CD \SPEAR
+SOD.EXE
+
+Theme Hospital
+---GENRE---Simulation
+---DEVELOPER---Bullfrog Productions
+---PUBLISHER---Electronic Arts
+---YEAR---1997
+C:
+CD \HOSPITAL
+imgmount d hospital.cue -t iso >nul
+HOSPITAL.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \HOSPITAL
+call SETSOUND.BAT
+
+Command & Conquer
+---GENRE---Strategy
+---SERIES---Command & Conquer
+---DEVELOPER---Westwood Studios
+---PUBLISHER---Virgin Interactive
+---YEAR---1995
+C:
+CD \C&C
+imgmount d gdi.cue nod.cue -t iso >nul
+C&C.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \C&C
+SETUP.EXE
+
+Command & Conquer: Red Alert
+---GENRE---Strategy
+---SERIES---Command & Conquer
+---DEVELOPER---Westwood Studios
+---PUBLISHER---Virgin Interactive
+---YEAR---1996
+C:
+CD \WESTWOOD\REDALERT
+imgmount d alied.cue soviet.cue -t iso >nul
+RA.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \WESTWOOD\REDALERT
+SETUP.EXE
+
+Warcraft: Orcs and Humans
+---GENRE---Strategy
+---SERIES---Warcraft
+---DEVELOPER---Blizzard Entertainment
+---PUBLISHER---Blizzard Entertainment
+---YEAR---1994
+C:
+CD \WARCRAFT
+WAR.EXE
+---CONFIG---
+C:
+CD \WARCRAFT
+SETUP.EXE
+
+Warcraft II: Tides of Darkness
+---GENRE---Strategy
+---SERIES---Warcraft
+---DEVELOPER---Blizzard Entertainment
+---PUBLISHER---Blizzard Entertainment
+---YEAR---1995
+C:
+CD \WAR2
+imgmount d war2.cue beyond.cue -t iso >nul
+WAR2.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \WAR2
+SETUP.EXE
+
+Albion
+---GENRE---Role-playing
+---DEVELOPER---Blue Byte Software
+---PUBLISHER---Blue Byte Software
+---YEAR---1996
+C:
+CD \ALBION
+imgmount d albion.cue -t iso >nul
+ALBION.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \ALBION
+SETUP.EXE
+
+Rise of the Triad: Dark War
+---GENRE---Action
+---DEVELOPER---Apogee Software
+---PUBLISHER---FormGen
+---YEAR---1995
+C:
+CD \ROTT
+ROTT.EXE
+---CONFIG---
+C:
+CD \ROTT
+SETUP.EXE
+
+Carmageddon
+---GENRE---Racing
+---DEVELOPER---SCI Software
+---PUBLISHER---Interplay
+---YEAR---1997
+C:
+CD \INTRPLAY\CARMAGE
+imgmount d car.cue -t iso >nul
+CARMA.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \INTRPLAY\CARMAGE
+SETUP.EXE
+
+Carmageddon (3dfx required)
+---GENRE---Racing
+---DEVELOPER---SCI Software
+---PUBLISHER---Interplay
+---YEAR---1997
+---STATUS---3dfx
+C:
+CD \INTRPLAY\CARMAGE
+imgmount d car.cue -t iso >nul
+CARMAV.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \INTRPLAY\CARMAGE
+SETUP.EXE
+
+Grand Theft Auto
+---GENRE---Action
+---DEVELOPER---DMA Design
+---PUBLISHER---Rockstar Games
+---YEAR---1997
+C:
+CD \GTA
+imgmount d gta.cue -t iso >nul
+call GTADOS.BAT
+mount -u d >nul
+
+Screamer Rally
+---GENRE---Racing
+---YEAR---1997
+
+The Settlers II
+---GENRE---Strategy
+---SERIES---Settlers
+---DEVELOPER---Blue Byte Software
+---PUBLISHER---Blue Byte Software
+---YEAR---1995
+C:
+CD \SETTLER2
+imgmount d s2gold.cue -t iso >nul
+S2.EXE
+mount -u d >nul
+---CONFIG---
+C:
+CD \SETTLER2
+SETUP.EXE
+
+Heroes of Might and Magic
+---GENRE---Strategy
+---SERIES---Might and Magic
+---DEVELOPER---New World Computing
+---PUBLISHER---New World Computing
+---YEAR---1995
+
+Heroes of Might and Magic II
+---GENRE---Strategy
+---SERIES---Might and Magic
+---DEVELOPER---Cyberlore Studios
+---PUBLISHER---New World Computing
+---YEAR---1996
+
