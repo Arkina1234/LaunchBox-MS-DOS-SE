@@ -9,8 +9,8 @@ Tomb Raider (3dfx)
 
 # Installation
 
-AUTOEXEC
+***AUTOEXEC.BAT***
 ```
-SET PATH=Z:\;C:\DOS;C:\LAUNCH;
+PATH=;C:\LAUNCH;
 call menu.bat
 ```
